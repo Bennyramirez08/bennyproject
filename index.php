@@ -10,8 +10,10 @@ and open the template in the editor.
         <title>Bookazon</title>
     </head>
     <body>
+        <div>hello</div>
         <?php
         echo "hello"
+     
         ?>
     </body>
 </html>
