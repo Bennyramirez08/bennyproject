@@ -13,6 +13,8 @@ and open the template in the editor.
         <?php
         ?>
         
+        <h1>Bookazon</h1>
+        
         <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="sign_in.php">Sign in</a></li>
