@@ -12,8 +12,15 @@ and open the template in the editor.
     <body>
         <div>hello</div>
         <?php
-        echo "hello"
+        echo "Bookazon"
         ?>
+        
+        User Email:
+        <br><input type ="text" name ="Email Address"<br>
+        
+        User Password:
+        <br><input type ="text" name= "Password"<br>
+        <br><input type ="submit" value ="Sign In"<br>
     </body>
 </html>
  
