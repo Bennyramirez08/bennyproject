@@ -7,19 +7,16 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Bookazon</title>
+        <title></title>
     </head>
     <body>
         <?php
         ?>
         
-        <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="sign_in.php">Sign in</a></li>
-            <li><a href="join_us.php">Join Us</a></li>
-            <li><a href="confirmation.php">Confirmation</a></li>
-        </ul>
+        <h1>Welcome to Bookazon!</h1>
+        <p>An email  has been sent to you. Please check your mail and confirm this account</p>
+        
+        
         
     </body>
 </html>
- 
