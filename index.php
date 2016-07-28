@@ -14,15 +14,22 @@ and open the template in the editor.
         <?php
         ?>
         
+        <form>
         
-        User Email:
-        <br><input type ="text" name ="Email Address"<br>
+            
+            User Email:<br>
         
-        User Password:
-        <br><input type ="text" name= "Password"<br>
+            <input type ="text" name ="Email Address"<br>
         
-        Submit:
-        <br><input type ="submit" value ="Sign In"
+            User Password:<br>
+            <input type ="text" name= "Password"<br>
+        
+            Submit:<br>
+            <input type ="submit" value ="Sign In"
+            
+            
+        </form>
+        
     </body>
 </html>
  
