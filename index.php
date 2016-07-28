@@ -19,10 +19,12 @@ and open the template in the editor.
             
             User Email:<br>
         
-            <input type ="text" name ="Email Address"<br>
+            <input type ="text" name ="Email Address"
+            <br>
         
             User Password:<br>
-            <input type ="text" name= "Password"<br>
+            <input type ="text" name= "Password"
+            <br>
         
             Submit:<br>
             <input type ="submit" value ="Sign In"
