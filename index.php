@@ -12,8 +12,8 @@ and open the template in the editor.
     <body>
        
         <?php
-        echo "Bookazon"
         ?>
+        
         
         User Email:
         <br><input type ="text" name ="Email Address"<br>
@@ -22,7 +22,7 @@ and open the template in the editor.
         <br><input type ="text" name= "Password"<br>
         
         Submit:
-        <br><input type ="submit" value ="Sign In"<br>
+        <br><input type ="submit" value ="Sign In"
     </body>
 </html>
  
