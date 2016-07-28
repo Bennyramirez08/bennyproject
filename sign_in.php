@@ -7,23 +7,25 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Bookazon</title>
+        <title></title>
     </head>
     <body>
-       
         <?php
         ?>
         
-        <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><li><a href="sign_in.php">Sign in</a></li>
-            <li><li><a href="join_us.php">Join Us</a></li>
-            <li></li>
-            
-            
-            
-        </ul>
+        <form action="index.php">
         
+            
+            User Email:<br>
+            <input type ="text" name ="Email Address">
+            <br>
+        
+            User Password:<br>
+            <input type ="text" name= "Password">
+            <br><br>
+            <input type ="submit" value ="Sign In"
+            
+            
+        </form>
     </body>
 </html>
- 
