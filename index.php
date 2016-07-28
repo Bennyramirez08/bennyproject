@@ -10,7 +10,7 @@ and open the template in the editor.
         <title>Bookazon</title>
     </head>
     <body>
-        <div>hello</div>
+       
         <?php
         echo "Bookazon"
         ?>
@@ -20,6 +20,8 @@ and open the template in the editor.
         
         User Password:
         <br><input type ="text" name= "Password"<br>
+        
+        Submit:
         <br><input type ="submit" value ="Sign In"<br>
     </body>
 </html>
