@@ -7,10 +7,14 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Join Us</title>
+        <title></title>
     </head>
     <body>
-        <form action="join_us-validation.php" method="post">
+        <?php
+        // put your code here
+        ?>
+        <h1>Passwords Do Not Match Please Try Again</h1>
+        <form action="confirmation.php" method="post">
 
             <fieldset>
                 <legend>Account Information</legend>
@@ -28,16 +32,5 @@ and open the template in the editor.
                 <input type ="submit" value ="create account"
 
             </fieldset>
-
-        </form>
-
-
-
-
-
-
-
-
-
     </body>
 </html>

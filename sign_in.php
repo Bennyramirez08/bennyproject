@@ -13,17 +13,17 @@ and open the template in the editor.
         <?php
         ?>
         
-        <form action="index.php">
+        <form action="welcome.php" method="post">
         
             
-            User Email:<br>
-            <input type ="text" name ="Email Address">
+            User Name:<br>
+             <input type ="text" name ="username">
             <br>
         
             User Password:<br>
-            <input type ="text" name= "Password">
+            <input type ="password2" name= "password">
             <br><br>
-            <input type ="submit" value ="Sign In"
+            <input type ="submit" value ="Sign In">
             
             
         </form>
